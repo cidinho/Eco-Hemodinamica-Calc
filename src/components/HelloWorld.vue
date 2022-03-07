@@ -137,7 +137,7 @@ export default {
       return Math.pow(this.vsve, 2) * 0.785;
     },
     volumesve() {
-      return this.avsve * this.vti;
+      return (this.avsve * this.vti).toFixed(2);
     },
   },
 };
