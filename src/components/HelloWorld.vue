@@ -136,6 +136,9 @@ export default {
     avsve() {
       return Math.pow(this.vsve, 2) * 0.785;
     },
+    volumesve() {
+      return this.avsve * this.vti;
+    },
   },
 };
 </script>
