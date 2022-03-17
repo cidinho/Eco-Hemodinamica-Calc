@@ -188,7 +188,7 @@
             </v-list>
           </v-card>
           <v-card class="mt-5 pt-5" tile>
-            <v-subheader class="display-1"
+            <v-subheader class="display-1 mb-5"
               >Referências e leitura recomendada</v-subheader
             >
             <p class="d-inline-block text-justify body-2 pt-3 px-3 mx-2">
@@ -233,7 +233,7 @@
               <a
                 target="__blank"
                 href="https://www.scielo.br/j/rbti/a/gVBR7x7C5j5HmXnsxKbq5wB/?format=pdf&lang=pt"
-                >https://www.scielo.br/j/rbti/a/gVBR7x7C5j5HmXnsxKbq5wB/?format=pdf&lang=pt</a
+                >Fonte: https://www.scielo.br</a
               >
             </p>
           </v-card>
@@ -264,7 +264,7 @@
               <img style="max-height: 80px;" src="https://ideacriativa.com.br/wp-content/uploads/2017/10/IdeaCriativa.png" alt="Idea Criativa"/>
             </a>    
           </p>
-          <p class="text-caption">Autor: José Diogenes Marques Ribeiro Filho (cardiologia/ecocardiografia)
+          <p class="text-caption">Autor: José Diogenes Marques Ribeiro Filho (cardiologia/ecocardiografia)<br/>
   Desenvolvedor/ ilustrador: Raul Proença</p>
           <p class="text-caption">Isenção de responsabilidade: A calculadora fornecida não devem substituir o aconselhamento profissional e não devem ser usadas para diagnóstico médico.  Todos os cálculos devem ser confirmados antes do uso clínico ou diagnóstico por profissionais médicos qualificados.  Os autores não se responsabilizam pela exatidão das informações aqui contidas.   Em nenhuma situação os autores e seus fornecedores, afiliados ou quaisquer terceiros serão responsabilizados de qualquer forma por quaisquer danos decorrentes do uso de qualquer informação fornecida.</p>
         </v-form>
